@@ -1,0 +1,26 @@
+CREATE node
+CREATE node
+CREATE node
+PUT node aaa
+PUT node bbb
+GET node
+GET node
+GET node
+CREATE topic
+PUT topic aaa
+GET topic
+GET topic
+GET topic
+PUT topic aaa
+PUT topic bbb
+CREATE topic1
+PUT topic1 aaaa
+PUT topic1 bbbb
+GET topic
+GET topic1
+GET topic1
+GET topic1
+PUT topic1 11111
+PUT topic1 222222
+CREATE ZORRRO
+CREATE aaaa
